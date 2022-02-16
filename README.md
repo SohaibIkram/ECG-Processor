@@ -1,0 +1,2 @@
+# ECG-Processor
+Wrote code for an ECG Processor that may remove unwanted noise from any ECG signal without compromising the integrity of the ECG signal. Len's Filters were utilized for this purpose. Moreover, the ECG signal was amplified and sampled for use in Digital Communication.  As a side application of the project, by detecting peaks in the ECG signal, the average heart rate was predicted. Tool utilized: MATLAB
